@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I create fun games, bots, and tools in JS, PHP, and Python.
 <!--
 **morozovaolga/morozovaolga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
